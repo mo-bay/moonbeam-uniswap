@@ -11,7 +11,7 @@ If you use the [following repository](https://github.com/albertov19/uniswap-cont
       "factory": "0xb4904552aA4080828dEB9dcE3A6055995362014d",
       "router": "0x7F79f86fC55d7D4B78eB7BF2c2573de8fdf8Cd00",
       "multicall": "0x590407a23C2F83c555AEee78A1A7655513621e89",
-      "init_code_hash": "0x01429e880a7972ebfbba904a5bbe32a816e78273e4b38ffa6bdeaebce8adba7c",
+      "init_code_hash": "0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f",
       "tok1": "0xe573BCA813c741229ffB2488F7856C6cAa841041",
       "tok2": "0xBb0CC0fb3e0c06725c67167501f850B4900D6DB5"
 ```
@@ -27,7 +27,7 @@ On Moonbase Alpha, these are the following addresses:
       "Factory": "0x3584446E08A4433f3b57d0D53A4338A282fB570D",
       "Router": "0x56a82ED340bB2CFa87777b1C42adE7F687A2196a",
       "multicall": "0xE3701304F4d224B738Dc7a22f216884B815aef12",
-      "init_code_hash": "0x01429e880a7972ebfbba904a5bbe32a816e78273e4b38ffa6bdeaebce8adba7c",
+      "init_code_hash": "0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f",
       "tok1": "0x825458b871FC6582d94c6d2BCe887897DFD9EDA2",
       "tok2": "0xF8f525327D199F340D60d4b3ee847B5d49a28E3C"
 ```
