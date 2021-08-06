@@ -4,7 +4,7 @@
       "factory": "0x511Bc6784136Fb4B620Add95c9616D0D2BB3F77e",
       "router": "0x221D7D037754B6beF34aBA49D141B86D1F3F97D8",
       "multicall": "0x590407a23C2F83c555AEee78A1A7655513621e89",
-      "init_code_hash": "0x01429e880a7972ebfbba904a5bbe32a816e78273e4b38ffa6bdeaebce8adba7c",
+      "init_code_hash": "0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f",
       "tok1": "0x1724b8Ef6738d18BC8A4B02ab55466cC0817B60c",
       "tok2": "0xBb0CC0fb3e0c06725c67167501f850B4900D6DB5"
    },
@@ -13,6 +13,6 @@
       "Factory": "0x511Bc6784136Fb4B620Add95c9616D0D2BB3F77e",
       "Router": "0x221D7D037754B6beF34aBA49D141B86D1F3F97D8",
       "multicall": "0x590407a23C2F83c555AEee78A1A7655513621e89",
-      "init_code_hash": "0x01429e880a7972ebfbba904a5bbe32a816e78273e4b38ffa6bdeaebce8adba7c"
+      "init_code_hash": "0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f"
    }
 }
