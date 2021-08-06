@@ -67,7 +67,7 @@ export const WDEV = {
   ),
   [ChainId.STANDALONE]: new Token(
     ChainId.STANDALONE,
-    '0x6eAa8845E061c24707cE55d8e5d5B2d6d0Ca4eF8',
+    '0xd13Cf7053bD8C6D42e3d699b63Cdd50884E35F72',
     18,
     'WDEV',
     'Wrapped Dev'
