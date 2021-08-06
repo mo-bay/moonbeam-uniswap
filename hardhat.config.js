@@ -23,7 +23,7 @@
           chainId: 7879,
        },
        dev: {
-          url: 'https://rpc.testnet.swapdex.net',
+          url: 'http://127.0.0.1:9933',
           accounts: [privateKeyDev],
           network_id: '7880',
           chainId: 7880,
